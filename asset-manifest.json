@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5a9d84d.css",
-    "main.js": "/static/js/main.2df0c3ca.js",
+    "main.js": "/static/js/main.fed803c8.js",
     "static/js/787.834b8db2.chunk.js": "/static/js/787.834b8db2.chunk.js",
     "static/media/slide6.PNG": "/static/media/slide6.091a36abead2fcbcee4f.PNG",
     "static/media/signika-all-400-normal.woff": "/static/media/signika-all-400-normal.26adbf06c66f64f0dbe8.woff",
@@ -10,11 +10,11 @@
     "static/media/signika-vietnamese-400-normal.woff2": "/static/media/signika-vietnamese-400-normal.49a82fbd61f5f3b3dd60.woff2",
     "index.html": "/index.html",
     "main.d5a9d84d.css.map": "/static/css/main.d5a9d84d.css.map",
-    "main.2df0c3ca.js.map": "/static/js/main.2df0c3ca.js.map",
+    "main.fed803c8.js.map": "/static/js/main.fed803c8.js.map",
     "787.834b8db2.chunk.js.map": "/static/js/787.834b8db2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5a9d84d.css",
-    "static/js/main.2df0c3ca.js"
+    "static/js/main.fed803c8.js"
   ]
 }
