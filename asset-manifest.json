@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd8748ac.css",
-    "main.js": "/static/js/main.2a43cbdd.js",
+    "main.css": "/static/css/main.6f85e9e5.css",
+    "main.js": "/static/js/main.9db2f424.js",
     "static/js/787.834b8db2.chunk.js": "/static/js/787.834b8db2.chunk.js",
     "static/media/slide6.PNG": "/static/media/slide6.091a36abead2fcbcee4f.PNG",
     "static/media/signika-all-400-normal.woff": "/static/media/signika-all-400-normal.26adbf06c66f64f0dbe8.woff",
@@ -9,12 +9,12 @@
     "static/media/signika-latin-ext-400-normal.woff2": "/static/media/signika-latin-ext-400-normal.f0addebd790f375bc8a9.woff2",
     "static/media/signika-vietnamese-400-normal.woff2": "/static/media/signika-vietnamese-400-normal.49a82fbd61f5f3b3dd60.woff2",
     "index.html": "/index.html",
-    "main.dd8748ac.css.map": "/static/css/main.dd8748ac.css.map",
-    "main.2a43cbdd.js.map": "/static/js/main.2a43cbdd.js.map",
+    "main.6f85e9e5.css.map": "/static/css/main.6f85e9e5.css.map",
+    "main.9db2f424.js.map": "/static/js/main.9db2f424.js.map",
     "787.834b8db2.chunk.js.map": "/static/js/787.834b8db2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd8748ac.css",
-    "static/js/main.2a43cbdd.js"
+    "static/css/main.6f85e9e5.css",
+    "static/js/main.9db2f424.js"
   ]
 }
